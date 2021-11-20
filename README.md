@@ -1,2 +1,1 @@
-# practice
-practice 
+# blended-js-group-1
