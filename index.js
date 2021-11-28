@@ -6,4 +6,4 @@
 // import "./js/lesson-4/task.js"
 // import "./js/lesson-4/blended-21-11-21.js"
 // import "./js/lesson-4/24-11-20-group-Exersices.js"
-import "./js/lesson-4/task-OOP.js"
+import "./js/lesson-4/task-OOP-my-version-updated.js"
